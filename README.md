@@ -1,5 +1,6 @@
 # godot-huggingface-chain
-
+## App List
+- godot-web-gradio-inapint - https://github.com/akjava/godot-web-gradio-inapint
 ## Building a User-Friendly Browser-Based Tool to Connect Various AI Services
 
 There's a growing abundance of AI services available for users, including:
