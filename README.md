@@ -1,4 +1,5 @@
 # godot-huggingface-chain
+[Huggingface Smolagents](https://github.com/huggingface/smolagents) are the future.I'll modify that based or shutdown project.
 ## App List
 - godot-web-gradio-inapint - https://github.com/akjava/godot-web-gradio-inapint
 ## Building a User-Friendly Browser-Based Tool to Connect Various AI Services
